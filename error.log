@@ -1,0 +1,539 @@
+05-25 22:23:06.782  6410  6755 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:06.782  6410  6755 E AndroidRuntime: Process: com.bluberry.adclient, PID: 6410
+05-25 22:23:06.782  6410  6755 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:06.782  6410  6755 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:06.782  6410  6755 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:06.782  6410  6755 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:06.782  6410  6755 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:23:10.853  6926  7505 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:10.853  6926  7505 E AndroidRuntime: Process: com.bluberry.adclient, PID: 6926
+05-25 22:23:10.853  6926  7505 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:10.853  6926  7505 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:10.853  6926  7505 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:10.853  6926  7505 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:10.853  6926  7505 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:23:11.989  6929  7554 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:11.989  6929  7554 E AndroidRuntime: Process: com.bluberry.adclient, PID: 6929
+05-25 22:23:11.989  6929  7554 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:11.989  6929  7554 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:11.989  6929  7554 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:11.989  6929  7554 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:11.989  6929  7554 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:23:12.934  6937  7604 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:12.934  6937  7604 E AndroidRuntime: Process: com.bluberry.adclient, PID: 6937
+05-25 22:23:12.934  6937  7604 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:12.934  6937  7604 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:12.934  6937  7604 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:12.934  6937  7604 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:12.934  6937  7604 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:23:13.902  7073  7666 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:13.902  7073  7666 E AndroidRuntime: Process: com.bluberry.adclient, PID: 7073
+05-25 22:23:13.902  7073  7666 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:13.902  7073  7666 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:13.902  7073  7666 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:13.902  7073  7666 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:13.902  7073  7666 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:23:14.792  7083  7703 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:14.792  7083  7703 E AndroidRuntime: Process: com.bluberry.adclient, PID: 7083
+05-25 22:23:14.792  7083  7703 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:14.792  7083  7703 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:14.792  7083  7703 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:14.792  7083  7703 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:14.792  7083  7703 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:23:15.633  7084  7798 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:15.633  7084  7798 E AndroidRuntime: Process: com.bluberry.adclient, PID: 7084
+05-25 22:23:15.633  7084  7798 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:15.633  7084  7798 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:15.633  7084  7798 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:15.633  7084  7798 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:15.633  7084  7798 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:23:16.434  7579  7832 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:16.434  7579  7832 E AndroidRuntime: Process: com.bluberry.adclient, PID: 7579
+05-25 22:23:16.434  7579  7832 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:16.434  7579  7832 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:16.434  7579  7832 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:16.434  7579  7832 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:16.434  7579  7832 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:23:17.252  7583  7873 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:23:17.252  7583  7873 E AndroidRuntime: Process: com.bluberry.adclient, PID: 7583
+05-25 22:23:17.252  7583  7873 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:23:17.252  7583  7873 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:23:17.252  7583  7873 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:23:17.252  7583  7873 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:23:17.252  7583  7873 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:32:56.195  7585  9127 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:32:56.195  7585  9127 E AndroidRuntime: Process: com.bluberry.adclient, PID: 7585
+05-25 22:32:56.195  7585  9127 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:32:56.195  7585  9127 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:32:56.195  7585  9127 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:32:56.195  7585  9127 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:32:56.195  7585  9127 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:10.629 15060 16551 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:10.629 15060 16551 E AndroidRuntime: Process: com.bluberry.adclient, PID: 15060
+05-25 22:43:10.629 15060 16551 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:10.629 15060 16551 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:10.629 15060 16551 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:10.629 15060 16551 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:10.629 15060 16551 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:14.270 15964 16996 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:14.270 15964 16996 E AndroidRuntime: Process: com.bluberry.adclient, PID: 15964
+05-25 22:43:14.270 15964 16996 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:14.270 15964 16996 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:14.270 15964 16996 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:14.270 15964 16996 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:14.270 15964 16996 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:15.207 15968 17077 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:15.207 15968 17077 E AndroidRuntime: Process: com.bluberry.adclient, PID: 15968
+05-25 22:43:15.207 15968 17077 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:15.207 15968 17077 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:15.207 15968 17077 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:15.207 15968 17077 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:15.207 15968 17077 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:16.021 15969 17190 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:16.021 15969 17190 E AndroidRuntime: Process: com.bluberry.adclient, PID: 15969
+05-25 22:43:16.021 15969 17190 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:16.021 15969 17190 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:16.021 15969 17190 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:16.021 15969 17190 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:16.021 15969 17190 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:16.834 16524 17245 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:16.834 16524 17245 E AndroidRuntime: Process: com.bluberry.adclient, PID: 16524
+05-25 22:43:16.834 16524 17245 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:16.834 16524 17245 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:16.834 16524 17245 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:16.834 16524 17245 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:16.834 16524 17245 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:17.667 16527 17285 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:17.667 16527 17285 E AndroidRuntime: Process: com.bluberry.adclient, PID: 16527
+05-25 22:43:17.667 16527 17285 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:17.667 16527 17285 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:17.667 16527 17285 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:17.667 16527 17285 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:17.667 16527 17285 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:18.463 16532 17327 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:18.463 16532 17327 E AndroidRuntime: Process: com.bluberry.adclient, PID: 16532
+05-25 22:43:18.463 16532 17327 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:18.463 16532 17327 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:18.463 16532 17327 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:18.463 16532 17327 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:18.463 16532 17327 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:19.274 17160 17368 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:19.274 17160 17368 E AndroidRuntime: Process: com.bluberry.adclient, PID: 17160
+05-25 22:43:19.274 17160 17368 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:19.274 17160 17368 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:19.274 17160 17368 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:19.274 17160 17368 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:19.274 17160 17368 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 22:43:20.035 17161 17405 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 22:43:20.035 17161 17405 E AndroidRuntime: Process: com.bluberry.adclient, PID: 17161
+05-25 22:43:20.035 17161 17405 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 22:43:20.035 17161 17405 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 22:43:20.035 17161 17405 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 22:43:20.035 17161 17405 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 22:43:20.035 17161 17405 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:05:28.356 20855 22362 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:05:28.356 20855 22362 E AndroidRuntime: Process: com.bluberry.adclient, PID: 20855
+05-25 23:05:28.356 20855 22362 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:05:28.356 20855 22362 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:05:28.356 20855 22362 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:05:28.356 20855 22362 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:05:28.356 20855 22362 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:05:29.588 20858 22400 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:05:29.588 20858 22400 E AndroidRuntime: Process: com.bluberry.adclient, PID: 20858
+05-25 23:05:29.588 20858 22400 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:05:29.588 20858 22400 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:05:29.588 20858 22400 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:05:29.588 20858 22400 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:05:29.588 20858 22400 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:06:02.730 22478 23209 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:06:02.730 22478 23209 E AndroidRuntime: Process: com.bluberry.adclient, PID: 22478
+05-25 23:06:02.730 22478 23209 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:06:02.730 22478 23209 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:06:02.730 22478 23209 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:06:02.730 22478 23209 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:06:02.730 22478 23209 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:07:58.314 23957 24645 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:07:58.314 23957 24645 E AndroidRuntime: Process: com.bluberry.adclient, PID: 23957
+05-25 23:07:58.314 23957 24645 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:07:58.314 23957 24645 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:07:58.314 23957 24645 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:07:58.314 23957 24645 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:07:58.314 23957 24645 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:13:59.374 28213 30533 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:13:59.374 28213 30533 E AndroidRuntime: Process: com.bluberry.adclient, PID: 28213
+05-25 23:13:59.374 28213 30533 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:13:59.374 28213 30533 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:13:59.374 28213 30533 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:13:59.374 28213 30533 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:13:59.374 28213 30533 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:17:06.537 31283   537 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:17:06.537 31283   537 E AndroidRuntime: Process: com.bluberry.adclient, PID: 31283
+05-25 23:17:06.537 31283   537 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:17:06.537 31283   537 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:17:06.537 31283   537 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:17:06.537 31283   537 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:17:06.537 31283   537 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:17:10.212 32456  1381 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:17:10.212 32456  1381 E AndroidRuntime: Process: com.bluberry.adclient, PID: 32456
+05-25 23:17:10.212 32456  1381 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:17:10.212 32456  1381 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:17:10.212 32456  1381 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:17:10.212 32456  1381 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:17:10.212 32456  1381 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:17:31.150   504  2769 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:17:31.150   504  2769 E AndroidRuntime: Process: com.bluberry.adclient, PID: 504
+05-25 23:17:31.150   504  2769 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:17:31.150   504  2769 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:17:31.150   504  2769 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:17:31.150   504  2769 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:17:31.150   504  2769 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:17:46.169   509  3108 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:17:46.169   509  3108 E AndroidRuntime: Process: com.bluberry.adclient, PID: 509
+05-25 23:17:46.169   509  3108 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:17:46.169   509  3108 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:17:46.169   509  3108 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:17:46.169   509  3108 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:17:46.169   509  3108 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:17:47.151  2061  3191 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:17:47.151  2061  3191 E AndroidRuntime: Process: com.bluberry.adclient, PID: 2061
+05-25 23:17:47.151  2061  3191 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:17:47.151  2061  3191 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:17:47.151  2061  3191 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:17:47.151  2061  3191 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:17:47.151  2061  3191 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:17:47.978  2065  3239 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:17:47.978  2065  3239 E AndroidRuntime: Process: com.bluberry.adclient, PID: 2065
+05-25 23:17:47.978  2065  3239 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:17:47.978  2065  3239 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:17:47.978  2065  3239 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:17:47.978  2065  3239 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:17:47.978  2065  3239 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:17:48.804  2066  3293 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:17:48.804  2066  3293 E AndroidRuntime: Process: com.bluberry.adclient, PID: 2066
+05-25 23:17:48.804  2066  3293 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:17:48.804  2066  3293 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:17:48.804  2066  3293 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:17:48.804  2066  3293 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:17:48.804  2066  3293 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:17:49.536  3076  3353 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:17:49.536  3076  3353 E AndroidRuntime: Process: com.bluberry.adclient, PID: 3076
+05-25 23:17:49.536  3076  3353 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:17:49.536  3076  3353 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:17:49.536  3076  3353 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:17:49.536  3076  3353 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:17:49.536  3076  3353 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:18:55.826  3078  3962 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:18:55.826  3078  3962 E AndroidRuntime: Process: com.bluberry.adclient, PID: 3078
+05-25 23:18:55.826  3078  3962 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:18:55.826  3078  3962 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:18:55.826  3078  3962 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:18:55.826  3078  3962 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:18:55.826  3078  3962 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:18:56.788  3273  4010 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:18:56.788  3273  4010 E AndroidRuntime: Process: com.bluberry.adclient, PID: 3273
+05-25 23:18:56.788  3273  4010 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:18:56.788  3273  4010 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:18:56.788  3273  4010 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:18:56.788  3273  4010 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:18:56.788  3273  4010 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:18:57.577  3274  4074 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:18:57.577  3274  4074 E AndroidRuntime: Process: com.bluberry.adclient, PID: 3274
+05-25 23:18:57.577  3274  4074 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:18:57.577  3274  4074 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:18:57.577  3274  4074 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:18:57.577  3274  4074 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:18:57.577  3274  4074 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:18:58.286  3277  4123 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:18:58.286  3277  4123 E AndroidRuntime: Process: com.bluberry.adclient, PID: 3277
+05-25 23:18:58.286  3277  4123 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:18:58.286  3277  4123 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:18:58.286  3277  4123 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:18:58.286  3277  4123 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:18:58.286  3277  4123 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:18:58.955  3936  4178 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:18:58.955  3936  4178 E AndroidRuntime: Process: com.bluberry.adclient, PID: 3936
+05-25 23:18:58.955  3936  4178 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:18:58.955  3936  4178 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:18:58.955  3936  4178 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:18:58.955  3936  4178 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:18:58.955  3936  4178 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:18:59.544  3938  4230 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:18:59.544  3938  4230 E AndroidRuntime: Process: com.bluberry.adclient, PID: 3938
+05-25 23:18:59.544  3938  4230 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:18:59.544  3938  4230 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:18:59.544  3938  4230 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:18:59.544  3938  4230 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:18:59.544  3938  4230 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:19:00.204  3940  4295 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:19:00.204  3940  4295 E AndroidRuntime: Process: com.bluberry.adclient, PID: 3940
+05-25 23:19:00.204  3940  4295 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:19:00.204  3940  4295 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:19:00.204  3940  4295 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:19:00.204  3940  4295 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:19:00.204  3940  4295 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:19:00.588  4102  4326 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:19:00.588  4102  4326 E AndroidRuntime: Process: com.bluberry.adclient, PID: 4102
+05-25 23:19:00.588  4102  4326 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:19:00.588  4102  4326 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:19:00.588  4102  4326 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:19:00.588  4102  4326 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:19:00.588  4102  4326 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:19:00.988  4103  4360 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:19:00.988  4103  4360 E AndroidRuntime: Process: com.bluberry.adclient, PID: 4103
+05-25 23:19:00.988  4103  4360 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:19:00.988  4103  4360 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:19:00.988  4103  4360 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:19:00.988  4103  4360 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:19:00.988  4103  4360 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:19:01.728  4104  4401 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:19:01.728  4104  4401 E AndroidRuntime: Process: com.bluberry.adclient, PID: 4104
+05-25 23:19:01.728  4104  4401 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:19:01.728  4104  4401 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:19:01.728  4104  4401 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:19:01.728  4104  4401 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:19:01.728  4104  4401 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:19:03.269  4269  4434 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:19:03.269  4269  4434 E AndroidRuntime: Process: com.bluberry.adclient, PID: 4269
+05-25 23:19:03.269  4269  4434 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:19:03.269  4269  4434 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:19:03.269  4269  4434 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:19:03.269  4269  4434 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:19:03.269  4269  4434 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:32:39.446 10745 15244 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:32:39.446 10745 15244 E AndroidRuntime: Process: com.bluberry.adclient, PID: 10745
+05-25 23:32:39.446 10745 15244 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:32:39.446 10745 15244 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:32:39.446 10745 15244 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:32:39.446 10745 15244 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:32:39.446 10745 15244 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:33:15.103  9651 15486 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:33:15.103  9651 15486 E AndroidRuntime: Process: com.bluberry.adclient, PID: 9651
+05-25 23:33:15.103  9651 15486 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:33:15.103  9651 15486 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:33:15.103  9651 15486 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:33:15.103  9651 15486 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:33:15.103  9651 15486 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:33:15.979 10724 15566 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:33:15.979 10724 15566 E AndroidRuntime: Process: com.bluberry.adclient, PID: 10724
+05-25 23:33:15.979 10724 15566 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:33:15.979 10724 15566 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:33:15.979 10724 15566 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:33:15.979 10724 15566 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:33:15.979 10724 15566 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:33:16.769 15224 15640 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:33:16.769 15224 15640 E AndroidRuntime: Process: com.bluberry.adclient, PID: 15224
+05-25 23:33:16.769 15224 15640 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:33:16.769 15224 15640 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:33:16.769 15224 15640 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:33:16.769 15224 15640 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:33:16.769 15224 15640 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:33:17.511 15225 15689 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:33:17.511 15225 15689 E AndroidRuntime: Process: com.bluberry.adclient, PID: 15225
+05-25 23:33:17.511 15225 15689 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:33:17.511 15225 15689 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:33:17.511 15225 15689 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:33:17.511 15225 15689 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:33:17.511 15225 15689 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:33:18.232 15226 15744 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:33:18.232 15226 15744 E AndroidRuntime: Process: com.bluberry.adclient, PID: 15226
+05-25 23:33:18.232 15226 15744 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:33:18.232 15226 15744 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:33:18.232 15226 15744 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:33:18.232 15226 15744 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:33:18.232 15226 15744 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:33:19.009 15540 15795 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:33:19.009 15540 15795 E AndroidRuntime: Process: com.bluberry.adclient, PID: 15540
+05-25 23:33:19.009 15540 15795 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:33:19.009 15540 15795 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:33:19.009 15540 15795 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:33:19.009 15540 15795 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:33:19.009 15540 15795 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:39:54.113 16533 19027 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:39:54.113 16533 19027 E AndroidRuntime: Process: com.bluberry.adclient, PID: 16533
+05-25 23:39:54.113 16533 19027 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:39:54.113 16533 19027 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:39:54.113 16533 19027 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:39:54.113 16533 19027 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:39:54.113 16533 19027 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:39:54.963 16535 19135 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:39:54.963 16535 19135 E AndroidRuntime: Process: com.bluberry.adclient, PID: 16535
+05-25 23:39:54.963 16535 19135 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:39:54.963 16535 19135 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:39:54.963 16535 19135 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:39:54.963 16535 19135 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:39:54.963 16535 19135 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:39:55.751 16538 19211 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:39:55.751 16538 19211 E AndroidRuntime: Process: com.bluberry.adclient, PID: 16538
+05-25 23:39:55.751 16538 19211 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:39:55.751 16538 19211 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:39:55.751 16538 19211 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:39:55.751 16538 19211 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:39:55.751 16538 19211 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:39:56.551 17039 19249 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:39:56.551 17039 19249 E AndroidRuntime: Process: com.bluberry.adclient, PID: 17039
+05-25 23:39:56.551 17039 19249 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:39:56.551 17039 19249 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:39:56.551 17039 19249 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:39:56.551 17039 19249 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:39:56.551 17039 19249 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:52:25.563 20569 23221 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:52:25.563 20569 23221 E AndroidRuntime: Process: com.bluberry.adclient, PID: 20569
+05-25 23:52:25.563 20569 23221 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:52:25.563 20569 23221 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:52:25.563 20569 23221 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:52:25.563 20569 23221 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:52:25.563 20569 23221 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:52:26.583 20574 23317 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:52:26.583 20574 23317 E AndroidRuntime: Process: com.bluberry.adclient, PID: 20574
+05-25 23:52:26.583 20574 23317 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:52:26.583 20574 23317 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:52:26.583 20574 23317 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:52:26.583 20574 23317 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:52:26.583 20574 23317 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:52:27.438 22239 23357 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:52:27.438 22239 23357 E AndroidRuntime: Process: com.bluberry.adclient, PID: 22239
+05-25 23:52:27.438 22239 23357 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:52:27.438 22239 23357 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:52:27.438 22239 23357 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:52:27.438 22239 23357 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:52:27.438 22239 23357 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:52:28.189 22242 23396 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:52:28.189 22242 23396 E AndroidRuntime: Process: com.bluberry.adclient, PID: 22242
+05-25 23:52:28.189 22242 23396 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:52:28.189 22242 23396 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:52:28.189 22242 23396 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:52:28.189 22242 23396 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:52:28.189 22242 23396 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:52:30.415 22247 23449 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:52:30.415 22247 23449 E AndroidRuntime: Process: com.bluberry.adclient, PID: 22247
+05-25 23:52:30.415 22247 23449 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:52:30.415 22247 23449 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:52:30.415 22247 23449 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:52:30.415 22247 23449 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:52:30.415 22247 23449 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:16.047 24853 25518 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:16.047 24853 25518 E AndroidRuntime: Process: com.bluberry.adclient, PID: 24853
+05-25 23:58:16.047 24853 25518 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:16.047 24853 25518 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:16.047 24853 25518 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:58:16.047 24853 25518 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:58:16.047 24853 25518 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:19.126 24873 25673 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:19.126 24873 25673 E AndroidRuntime: Process: com.bluberry.adclient, PID: 24873
+05-25 23:58:19.126 24873 25673 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:19.126 24873 25673 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:19.126 24873 25673 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:58:19.126 24873 25673 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:58:19.126 24873 25673 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:20.047 25217 25711 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:20.047 25217 25711 E AndroidRuntime: Process: com.bluberry.adclient, PID: 25217
+05-25 23:58:20.047 25217 25711 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:20.047 25217 25711 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:20.047 25217 25711 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:58:20.047 25217 25711 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:58:20.047 25217 25711 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:20.898 25228 25751 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:20.898 25228 25751 E AndroidRuntime: Process: com.bluberry.adclient, PID: 25228
+05-25 23:58:20.898 25228 25751 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:20.898 25228 25751 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:20.898 25228 25751 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:58:20.898 25228 25751 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:58:20.898 25228 25751 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:21.676 25238 25886 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:21.676 25238 25886 E AndroidRuntime: Process: com.bluberry.adclient, PID: 25238
+05-25 23:58:21.676 25238 25886 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:21.676 25238 25886 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:21.676 25238 25886 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:58:21.676 25238 25886 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:58:21.676 25238 25886 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:23.335 25653 25971 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:23.335 25653 25971 E AndroidRuntime: Process: com.bluberry.adclient, PID: 25653
+05-25 23:58:23.335 25653 25971 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:23.335 25653 25971 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:23.335 25653 25971 E AndroidRuntime: 	at com.bluberry.adclient.App.b(Unknown Source:14)
+05-25 23:58:23.335 25653 25971 E AndroidRuntime: 	at com.bluberry.adclient.c$a.run(Unknown Source:30)
+05-25 23:58:23.335 25653 25971 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:53.428 25866 26454 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:53.428 25866 26454 E AndroidRuntime: Process: com.bluberry.adclient, PID: 25866
+05-25 23:58:53.428 25866 26454 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:53.428 25866 26454 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:53.428 25866 26454 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:58:53.428 25866 26454 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:58:53.428 25866 26454 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:56.318 25868 26601 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:56.318 25868 26601 E AndroidRuntime: Process: com.bluberry.adclient, PID: 25868
+05-25 23:58:56.318 25868 26601 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:56.318 25868 26601 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:56.318 25868 26601 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:58:56.318 25868 26601 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:58:56.318 25868 26601 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:57.232 25869 26664 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:57.232 25869 26664 E AndroidRuntime: Process: com.bluberry.adclient, PID: 25869
+05-25 23:58:57.232 25869 26664 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:57.232 25869 26664 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:57.232 25869 26664 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:58:57.232 25869 26664 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:58:57.232 25869 26664 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:58.675 26298 26715 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:58.675 26298 26715 E AndroidRuntime: Process: com.bluberry.adclient, PID: 26298
+05-25 23:58:58.675 26298 26715 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:58.675 26298 26715 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:58.675 26298 26715 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:58:58.675 26298 26715 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:58:58.675 26298 26715 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:58:59.434 26303 26772 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:58:59.434 26303 26772 E AndroidRuntime: Process: com.bluberry.adclient, PID: 26303
+05-25 23:58:59.434 26303 26772 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:58:59.434 26303 26772 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:58:59.434 26303 26772 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:58:59.434 26303 26772 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:58:59.434 26303 26772 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:59:00.209 26305 26820 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:59:00.209 26305 26820 E AndroidRuntime: Process: com.bluberry.adclient, PID: 26305
+05-25 23:59:00.209 26305 26820 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:59:00.209 26305 26820 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:59:00.209 26305 26820 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:59:00.209 26305 26820 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:59:00.209 26305 26820 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:59:00.950 26619 26856 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:59:00.950 26619 26856 E AndroidRuntime: Process: com.bluberry.adclient, PID: 26619
+05-25 23:59:00.950 26619 26856 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:59:00.950 26619 26856 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:59:00.950 26619 26856 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:59:00.950 26619 26856 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:59:00.950 26619 26856 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:59:39.200 26801 27477 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:59:39.200 26801 27477 E AndroidRuntime: Process: com.bluberry.adclient, PID: 26801
+05-25 23:59:39.200 26801 27477 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:59:39.200 26801 27477 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:59:39.200 26801 27477 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:59:39.200 26801 27477 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:59:39.200 26801 27477 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:59:42.181 26804 27711 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:59:42.181 26804 27711 E AndroidRuntime: Process: com.bluberry.adclient, PID: 26804
+05-25 23:59:42.181 26804 27711 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:59:42.181 26804 27711 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:59:42.181 26804 27711 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:59:42.181 26804 27711 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:59:42.181 26804 27711 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:59:43.043 27234 27749 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:59:43.043 27234 27749 E AndroidRuntime: Process: com.bluberry.adclient, PID: 27234
+05-25 23:59:43.043 27234 27749 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:59:43.043 27234 27749 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:59:43.043 27234 27749 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:59:43.043 27234 27749 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:59:43.043 27234 27749 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-25 23:59:43.865 27236 27788 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-25 23:59:43.865 27236 27788 E AndroidRuntime: Process: com.bluberry.adclient, PID: 27236
+05-25 23:59:43.865 27236 27788 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-25 23:59:43.865 27236 27788 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-25 23:59:43.865 27236 27788 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-25 23:59:43.865 27236 27788 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-25 23:59:43.865 27236 27788 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
+05-26 00:07:43.247 27816 29729 E AndroidRuntime: FATAL EXCEPTION: Thread-3
+05-26 00:07:43.247 27816 29729 E AndroidRuntime: Process: com.bluberry.adclient, PID: 27816
+05-26 00:07:43.247 27816 29729 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+05-26 00:07:43.247 27816 29729 E AndroidRuntime: 	at java.util.Arrays.sort(Arrays.java:1239)
+05-26 00:07:43.247 27816 29729 E AndroidRuntime: 	at com.bluberry.adclient.App.getDirs(App.java:77)
+05-26 00:07:43.247 27816 29729 E AndroidRuntime: 	at com.bluberry.adclient.ADRender$AdJsonParser.run(ADRender.java:840)
+05-26 00:07:43.247 27816 29729 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:929)
